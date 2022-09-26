@@ -1,7 +1,7 @@
 # MSc-project---RL-and-HRI-for-assistive-robots
 The project focuses by giving the robot 'Pepper' the cognitive ability to learn from mistakes through Reinforcement Learning (RL) and the demo focuses on Human-Robot Interaction (HRI) needed during an object retrieval task.
 
-The study can be viewed from the below URL
+The study can be viewed from the URL
 https://www.youtube.com/watch?v=j0QmaKpQToE&t=2s
 
 
