@@ -4,6 +4,7 @@ The project focuses by giving the robot 'Pepper' the cognitive ability to learn 
 The study can be viewed from the URL
 https://www.youtube.com/watch?v=j0QmaKpQToE&t=2s
 
+Download both the folders RL codes and Choregraphe in the repository.
 
 ----------------------------------------------------------------------------
 Phase 1 of the study can be just replicated by running the .pml in Choregraphe software inside the 
